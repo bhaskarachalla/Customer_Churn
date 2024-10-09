@@ -1,5 +1,3 @@
-# Customer Churn Analysis - README
-
 ## Overview
 This project analyzes customer churn in internet services and investigates how data correction affects model accuracy. The primary focus is on understanding the trade-offs between using raw data with outliers and data that has undergone outlier correction.
 
